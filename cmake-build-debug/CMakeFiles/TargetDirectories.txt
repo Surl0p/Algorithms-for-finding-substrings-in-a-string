@@ -1,0 +1,3 @@
+/Users/ivanpavlov/Desktop/cw-2/cmake-build-debug/CMakeFiles/cw_2.dir
+/Users/ivanpavlov/Desktop/cw-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivanpavlov/Desktop/cw-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+2	599	1747341298935964191	CMakeFiles/cw_2.dir/naive_search.cpp.o	26b42246dcd849c4
+8	860	1747662087034597476	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+9	762	1747661324497718755	CMakeFiles/cw_2.dir/extra/Karp-Rabin_algorithm/rabin_karp.cpp.o	34cd6afd5e76cb46
+8	587	1747344404407540566	CMakeFiles/cw_2.dir/rabin_karp.cpp.o	4f3ac0a50868e017
+3	619	1747341298956632306	CMakeFiles/cw_2.dir/utils.cpp.o	262b2ae24aa96b54
+10	833	1747661324575937785	CMakeFiles/cw_2.dir/extra/bm_search/boyer_moore_search.cpp.o	51a692f3a395403a
+8	770	1747661324511981824	CMakeFiles/cw_2.dir/extra/Brute_Force_algorithm/naive_search.cpp.o	58ed21e7e4a64c3e
+860	999	1747662087178342103	cw_2	9ebb2ff3ae4c741c
+763	1301	1747661325038446656	CMakeFiles/cw_2.dir/extra/z_search/z_search.cpp.o	9561e5141206559d
+9	760	1747662086935033711	CMakeFiles/cw_2.dir/extra/aho_corasick/aho_corasick.cpp.o	3bde468d591baf5d
+10	767	1747661324508901479	CMakeFiles/cw_2.dir/extra/kmp_search/kmp_search.cpp.o	e0fab2d929321c8f
+10	808	1747661324551019653	CMakeFiles/cw_2.dir/extra/utils/utils.cpp.o	f700560c8bf45271
+8	766	1747662196113074509	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+767	851	1747662196203874752	cw_2	9ebb2ff3ae4c741c
+10	811	1747662875861672692	CMakeFiles/cw_2.dir/extra/aho_corasick/aho_corasick.cpp.o	3bde468d591baf5d
+9	878	1747662875928060390	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+878	1015	1747662876071043233	cw_2	9ebb2ff3ae4c741c
+10	828	1747663806193163019	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+828	977	1747663806347239361	cw_2	9ebb2ff3ae4c741c
+13	865	1747664322738182634	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+865	1002	1747664322879157496	cw_2	9ebb2ff3ae4c741c
+10	795	1747664971139387999	CMakeFiles/cw_2.dir/extra/aho_corasick/aho_corasick.cpp.o	3bde468d591baf5d
+10	901	1747664971245057328	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+901	1039	1747664971387595625	cw_2	9ebb2ff3ae4c741c
+8	1078	1747666641871122156	CMakeFiles/cw_2.dir/main.cpp.o	941d23ee4603c5d3
+1079	1220	1747666642017318233	cw_2	9ebb2ff3ae4c741c
